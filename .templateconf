@@ -1,0 +1,4 @@
+# Template settings
+#
+# Where the template files are located
+TEMPLATECONF=${OEROOT}/conf
